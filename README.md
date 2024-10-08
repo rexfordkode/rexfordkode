@@ -1,13 +1,29 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rexfordkode)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rexfordkode&theme=radical)](https://git.io/streak-stats)
 
-- 👋 Hi, I’m @rexfordkode
-- 👀 I’m interested in Software Engineering, System Design, and Microservices
-- 🌱 I’m currently learning NestJS, NodeJS, TypeScript, AWS, Docker, and GraphQL
-- 💻 I specialize as a Fullstack Developer with experience in React, Vue, and Storyblok
-- 💞️ I’m looking to collaborate on backend, microservice, and cloud-based projects
-- 📫 You can reach me on Twitter @originalrexford
+# 👋 Hi, I’m Rexford Koomson (@rexfordkode)
+🚀 Fullstack Developer | 🧠 AI Integration Enthusiast | 💻 Cloud & Microservices Architect
+
+## 👀 What I'm Into:
+- **Software Engineering**: Crafting scalable solutions and optimizing system design.
+- **Backend Expertise**: NodeJS, NestJS, TypeScript, AWS Lambda, Redis, GraphQL, and RESTful APIs.
+- **Frontend Flair**: Building intuitive UIs with React, Vue, and Storyblok.
+- **Cloud & Infrastructure**: Docker, AWS, Microservices, and serverless architectures.
+- **AI Integration**: Exploring how to merge AI into modern applications.
+
+## 🌱 Currently Learning:
+- **Advanced Cloud Solutions**: Diving deeper into AWS, Docker, and distributed systems.
+- **AI & Machine Learning**: Integrating AI with microservices for smarter systems.
+
+## 💬 Let’s Collaborate On:
+- Fullstack projects with **NodeJS**, **NestJS**, **GraphQL**, or **RESTful APIs**.
+- Serverless architectures using **AWS Lambda**.
+- Cutting-edge **AI integrations** for real-world applications.
+- Building efficient **microservices** and system designs.
+
+## 📫 Reach Me:
+- 🐦 Twitter: [@originalrexford](https://twitter.com/originalrexford)
 
 <!---
 rexfordkode/rexfordkode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Click the Preview link to take a look at your changes.
 --->
