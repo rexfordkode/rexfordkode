@@ -11,7 +11,7 @@
 - **AI Integration**: Exploring how to merge AI into modern applications.
 
 ## 🎓 Education:
-- **[Your Degree, e.g., Bachelor of Science in Computer Science]** – [Your University/Institution Name] *(Expected/Graduated Year)*
+- **MSc Applied Computer Science ** – Grand Valley State University *(2027 Year)*
   - *Key Highlights:* Focused on software engineering principles, distributed systems, and data structures.
 - **Continuous Learning & Certifications**: Actively expanding knowledge through specialized cloud architecture and machine learning credentials.
 
