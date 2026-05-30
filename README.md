@@ -10,6 +10,11 @@
 - **Cloud & Infrastructure**: Docker, AWS, Microservices, and serverless architectures.
 - **AI Integration**: Exploring how to merge AI into modern applications.
 
+## 🎓 Education:
+- **[Your Degree, e.g., Bachelor of Science in Computer Science]** – [Your University/Institution Name] *(Expected/Graduated Year)*
+  - *Key Highlights:* Focused on software engineering principles, distributed systems, and data structures.
+- **Continuous Learning & Certifications**: Actively expanding knowledge through specialized cloud architecture and machine learning credentials.
+
 ## 🌱 Currently Learning:
 - **Advanced Cloud Solutions**: Diving deeper into AWS, Docker, and distributed systems.
 - **AI & Machine Learning**: Integrating AI with microservices for smarter systems.
