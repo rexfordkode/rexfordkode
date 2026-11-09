@@ -1,31 +1,51 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rexfordkode&theme=radical)](https://git.io/streak-stats)
 
 # 👋 Hi, I’m Rexford Koomson (@rexfordkode)
-🚀 Fullstack Developer | 🧠 AI Integration Enthusiast | 💻 Cloud & Microservices Architect
+🚀 **Seasoned Fullstack & AI Software Engineer** | 🧠 **LLM Integrations & Microservices Architect** | ☁️ **Cloud Infrastructure Expert**
 
-## 👀 What I'm Into:
-- **Software Engineering**: Crafting scalable solutions and optimizing system design.
-- **Backend Expertise**: NodeJS, NestJS, TypeScript, AWS Lambda, Redis, GraphQL, and RESTful APIs.
-- **Frontend Flair**: Building intuitive UIs with React, Vue, and Storyblok.
-- **Cloud & Infrastructure**: Docker, AWS, Microservices, and serverless architectures.
-- **AI Integration**: Exploring how to merge AI into modern applications.
+🌐 [Portfolio / Website](https://rexfordkofikoomson.me/) | 💼 [LinkedIn](https://www.linkedin.com/in/rexford-kofi-koomson/)
+
+---
+
+## 💼 Professional Profile
+Seasoned software engineer with 6+ years of experience specializing in scalable backend architectures, high-performance microservices, and **LLM-driven AI integrations**. Proven track record of architecting AI-native mobile and web applications, migrating complex systems, optimizing data pipelines, and implementing intelligent analytics engines using modern cloud infrastructure.
+
+## 🧠 AI & Intelligent Systems Expertise
+- **LLM & Generative AI**: Integrating OpenAI & custom LLM APIs, building automated AI diagnostic engines, and implementing conversational workflows.
+- **AI-Native App Development**: Architecting cross-platform mobile & web applications powered by multimodal AI models for real-time analysis.
+- **Smart Analytics & Recommendations**: Designing intelligent data processing pipelines that convert raw qualitative inputs into automated, actionable metrics.
+
+## 🛠️ Technical Stack & Skills
+- **Backend & Architecture**: Node.js, NestJS, Express, Microservices, RESTful APIs, GraphQL, Serverless
+- **Frontend & Mobile**: React.js, Vue.js, React Native, Flutter, TypeScript
+- **Databases & Caching**: PostgreSQL, MySQL, MongoDB, DynamoDB, ClickHouse, ElastiCache
+- **Cloud & DevOps**: AWS (EC2, S3, RDS, Aurora, Lambda, VPC), Docker
+- **Tools & APIs**: Storyblok Headless CMS, Jira API, TDx, Kibana, Git
+
+## 🚀 Key Projects & Experience
+- **AI-Powered Site Analytical Engine**: Engineered an automated diagnostic tool (*AI Grader*) ingesting target URLs via NestJS, LLM integrations, and AWS to deliver automated web performance and structural insights.
+- **AI-Native Admission Assistant App**: Directed architecture for an AI-native cross-platform mobile application using React Native and LLM APIs to streamline student screening and engagement.
+- **Reach By Amalitech App**: Architected live mobile and web platforms connecting students with campus organizations using Flutter, NestJS, Next.js, and WebSockets.
+- **Enterprise ERP Migration (AmaliTech Services)**: Led the backend rewrite, successfully migrating legacy PHP monoliths into scalable Node.js, TypeScript, and PostgreSQL microservices with zero downtime.
 
 ## 🎓 Education:
-- **MSc Applied Computer Science** – Grand Valley State University *(2027 Year)*
-  - *Key Highlights:* Focused on software engineering principles, distributed systems, and data structures.
-- **Continuous Learning & Certifications**: Actively expanding knowledge through specialized cloud architecture and machine learning credentials.
+- **M.S. Applied Computer Science** – Grand Valley State University *(08/2025 – Present)*
+  - *Focus:* Software Engineering & Distributed Computing.
+- **B.Sc. Information Technology** – Ghana Communication Technology University College *(09/2015 – 08/2019)*
+  - *Focus:* Software Development.
 
-## 🌱 Currently Learning:
-- **Advanced Cloud Solutions**: Diving deeper into AWS, Docker, and distributed systems.
-- **AI & Machine Learning**: Integrating AI with microservices for smarter systems.
+## 🌱 Currently Learning & Exploring:
+- **Advanced AI Agents & RAG Architectures**: Deepening expertise in autonomous agent workflows and retrieval-augmented generation.
+- **Scalable Cloud Solutions**: Advanced AWS serverless patterns and distributed microservice message brokers.
 
 ## 💬 Let’s Collaborate On:
-- Fullstack projects with **NodeJS**, **NestJS**, **GraphQL**, or **RESTful APIs**.
-- Serverless architectures using **AWS Lambda**.
-- Cutting-edge **AI integrations** for real-world applications.
-- Building efficient **microservices** and system designs.
+- Cutting-edge **AI integrations** and LLM-driven workflows.
+- Scalable backend systems with **Node.js**, **NestJS**, **GraphQL**, or **RESTful APIs**.
+- Serverless architectures and microservices using **AWS** and **Docker**.
 
 ## 📫 Reach Me:
+- 🌐 Website: [rexfordkofikoomson.me](https://rexfordkofikoomson.me/)
+- 💼 LinkedIn: [rexford-kofi-koomson](https://www.linkedin.com/in/rexford-kofi-koomson/)
 - 🐦 Twitter: [@originalrexford](https://twitter.com/originalrexford)
 
 <!---
